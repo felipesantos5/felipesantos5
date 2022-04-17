@@ -5,6 +5,7 @@
 
   <a href="https://github.com/felipesantos5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 
 </div>
 
@@ -27,4 +28,7 @@
   <a href="https://twitter.com/felipicincoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/felipicincoo" target="_blank"><img height="28" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
  
+ <br>
+
+  ![Snake animation](https://github.com/felipesantos5/felipesantos5/blob/output/github-contribution-grid-snake.svg)
 </div>
