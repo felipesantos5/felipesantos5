@@ -12,7 +12,7 @@
 
 <div>
     <p>
-        Front-end developer, focused on web applications and problem solving, strong focus in user experience (UI/UX), CEO, design patterns and web services.
+        Front-end developer, focused on web applications and problem solving, strong focus in user experience (UI/UX), SEO, design patterns and web services.
         Since I was a child involved in this web world with great curiosity to learn new things, with a great ambition to work in this area.
         Every day improving myself more and studying to evolve and be able to add to people's lives.
     </p>
