@@ -1,26 +1,25 @@
 
-## 👨‍💻 Hello, I'm Felipe !
+# 👨‍💻 Hello, I'm Felipe !
 
 ════ Welcome to my Github ════
 
-###  😃 A little about myself :
+## 😃 A little about myself :
 
 - 🌎 From Brazil.
 - 👶 Since 03.2004.
 - 🎮 Video game player.
 - 👨‍🎓 Studying information systems at UNISUL.
+
 <div>
     <p>
-     Front-end developer, focused on web applications and problem solving, strong focus in user experience (UI/UX), CEO, design patterns and web services.
-     Since I was a child involved in this web world with great curiosity to learn new things, with a great ambition to work in this area.
-      Every day improving myself more and studying to evolve and be able to add to people's lives.
+        Front-end developer, focused on web applications and problem solving, strong focus in user experience (UI/UX), CEO, design patterns and web services.
+        Since I was a child involved in this web world with great curiosity to learn new things, with a great ambition to work in this area.
+        Every day improving myself more and studying to evolve and be able to add to people's lives.
     </p>
 </div>
 
-
-
-
 # 
+
 <div align="center">
   <a href="https://github.com/felipesantos5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,8 +35,10 @@
   <img align="center" alt="felipe-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="felipe-JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="felipe-git"src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
-  
+
 </div>
+
+<br>
 
   #
   
@@ -48,7 +49,9 @@
   <img align="center" alt="felipe-vue.js"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="felipe-node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-  <br>
+<br>
+
+#
 
   ## 🤝 Social Media
 
@@ -59,5 +62,7 @@
   <a href="#" target="_blank"><img height="28" src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge" target="_blank"></a>
  
  <br>
+
+ #
 
 </div>
