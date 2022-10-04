@@ -40,11 +40,13 @@
 <br>
 
   ## 📕 I'm currently learning
- 
+    
+ <div style="display: inline_block">
    <img align="center" alt="felipe-phython" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
    <img align="center" alt="felipe-vue.js"  src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
    <img align="center" alt="felipe-node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-
+</div>
+    
 <br>
 
   ## 🤝 Social Media
