@@ -24,9 +24,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
+<br>
 
 <div style="display: inline_block" align="center">
-   
    <img align="center" alt="felipe-react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img align="center" alt="felipe-node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
    <img align="center" alt="felipe-typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
