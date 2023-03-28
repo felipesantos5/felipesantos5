@@ -27,7 +27,7 @@
 
 ## 📌 Dominated Technologies
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
    
    <img align="center" alt="felipe-react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img align="center" alt="felipe-node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
