@@ -25,8 +25,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-# 
-
 ## 📌 Dominated Technologies
 
 <div style="display: inline_block">
