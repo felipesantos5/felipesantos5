@@ -25,8 +25,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 📌 Dominated Technologies
-
 <div style="display: inline_block" align="center">
    
    <img align="center" alt="felipe-react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
