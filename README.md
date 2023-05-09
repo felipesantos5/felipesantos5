@@ -18,12 +18,6 @@
     </p>
 </div>
 
-
-<div align="center">
-  <a href="https://github.com/felipesantos5">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula">
-</div>
-    
 <br>
 
 <div style="display: inline_block" align="center">
