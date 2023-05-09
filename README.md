@@ -21,8 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/felipesantos5">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=dracula"/>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipesantos5&theme=react&line_height=40&hide=css"/> </a>
 </div>
     
 <br>
