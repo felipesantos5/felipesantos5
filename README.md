@@ -30,8 +30,10 @@
    <img align="center" alt="felipe-git"src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div>
+<br>
+
+<div align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
+
