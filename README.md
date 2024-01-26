@@ -4,9 +4,9 @@
  <h3>😃 A little about myself :</h3>
 
 - 🌎 From Brazil.
-- 👶 Since 03.2004.
+- 👶 Since 2004.
 - 🎮 Video game player.
-- 👨‍🎓 Studying information systems at UNISUL.
+- 👨‍🎓 Front-end Developer.
 
 <div>
     <p>
