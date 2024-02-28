@@ -27,7 +27,9 @@
 <br>
 
 <div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipesantos5&theme=bear)
+  <a href="https://github.com/felipesantos5">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
 
