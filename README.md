@@ -1,11 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > Hello, I'm Felipe ! ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
 
- <h3>😃 A little about myself :</h3>
-
 - 🌎 From Brazil.
-- 👶 Since 2004.
-- 🎮 Video game player.
 - 👨‍🎓 Front-end Developer.
 
 <div>
