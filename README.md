@@ -6,7 +6,7 @@
 
 <div>
     <p>
-        Experienced Software Engineer, specializing in FullStack development with a focus on React and Node.js since 2021 (4 years). Skilled in building scalable and robust applications using both monolithic and microservices architectures, including all stages of development, such as planning, architecture, implementation, testing, monitoring, alerts, and support.
+        Experienced Software Engineer, specializing in FullStack development with a focus on React and Node.js since 2021 (5 years). Skilled in building scalable and robust applications using both monolithic and microservices architectures, including all stages of development, such as planning, architecture, implementation, testing, monitoring, alerts, and support.
     </p>
 </div>
 
