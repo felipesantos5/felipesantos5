@@ -14,14 +14,14 @@
 
 <div style="display: inline_block" align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,nextjs,tailwind,sass,styledcomponents,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,js,html,css,react,nextjs,tailwind,sass,mongodb,postgres,redis,docker,git)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=felipesantos5&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesantos5&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 
