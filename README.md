@@ -13,7 +13,7 @@
 ## 🚀 What I Do
 
 - 🏗️ **Architecture & Scalability** — Design and ship applications built on solid, scalable foundations (monolithic and microservices)
-- ⚙️ **End-to-End Development** — Own the full cycle: planning, architecture, implementation, testing, monitoring, alerting, and support
+- ⚙️ **End-to-End Development** — Own the full cycle: planning, architecture, implementation, testing, monitoring and support
 - 🔌 **API Design** — Build clean, well-documented and performant REST APIs with Node.js & Express
 - 🎨 **Modern Frontends** — Craft responsive, accessible interfaces with React, Next.js, Tailwind & Sass
 - 🗄️ **Data Layer** — Model and optimize data with MongoDB, PostgreSQL & Redis
