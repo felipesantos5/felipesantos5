@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,react,next,express,nestjs,js,python,go,html,css,tailwind,sass,graphql,postgres,mongodb,redis,mysql,dynamodb,aws,gcp,docker,kubernetes,nginx,grafana,rabbitmq,kafka,git,github,jest,cypress,postman,linux&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,react,next,express,nestjs,js,python,go,html,css,tailwind,sass,graphql,postgres,mongodb,redis,mysql,dynamodb,aws,gcp,docker,kubernetes,nginx,grafana,rabbitmq,kafka,git,github,jest,cypress,vite,postman,linux&perline=17)](https://skillicons.dev)
 
 </div>
 
