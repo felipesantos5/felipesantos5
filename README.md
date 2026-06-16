@@ -1,8 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hello, I'm Felipe! ![](https://komarev.com/ghpvc/?username=Vzdevelopers&color=006bed)
 
-- 🌎 From Brazil
-- 👨‍💻 Full-stack Developer
-
 <div>
   <p>
     Experienced Software Engineer specializing in Full-Stack development with a focus on <b>React</b> and <b>Node.js</b> since 2021. I build scalable, robust applications using both monolithic and microservices architectures — covering every stage of the lifecycle: planning, architecture, implementation, testing, monitoring, alerts, and support.
