@@ -17,7 +17,6 @@
 - 🐳 **DevOps Mindset** — Containerize and streamline workflows with Docker & Git
 - 📈 **Observability** — Implement monitoring and alerting to keep production healthy
 
-<br>
 
 ## 🛠️ Tech Stack
 
