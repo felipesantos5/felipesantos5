@@ -14,7 +14,7 @@
 - 🔌 **API Design** — Build clean, well-documented and performant REST APIs with Node.js & Express
 - 🎨 **Modern Frontends** — Craft responsive, accessible interfaces with React, Next.js, Tailwind & Sass
 - 🗄️ **Data Layer** — Model and optimize data with MongoDB, PostgreSQL & Redis
-- 🐳 **DevOps Mindset** — Containerize and streamline workflows with Docker & Git
+- 🐳 **DevOps** — Containerize and streamline workflows with Docker & Git
 - 📈 **Observability** — Implement monitoring and alerting to keep production healthy
 
 
